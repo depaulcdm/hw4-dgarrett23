@@ -23,7 +23,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 # Maven [30 pts]
 
 - [5 pts] A screen capture showing the version of Maven that you installed and its install directory.
-  ![Maven Screen Capture #1](./images/maven/Screenshot_#1.png)
+  ![Maven Screen Capture #1](./images/maven/Screenshot_1.png)
 
 - [10 pts] A screen capture showing a successful build using the Maven script.
   ![Maven Screen Capture #2](./images/maven/Screenshot_#2.png)
