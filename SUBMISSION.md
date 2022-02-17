@@ -35,6 +35,12 @@ The first argument is the Alt-text for the image. The second argument is the pat
 # Gradle [30 pts]
 
 - [5 pts]A screen capture showing the version of Gradle that you installed and its install directory.
+  ![Gradle Screen Capture #1](./images/gradle/Screenshot_1.png)
+
 - [10 pts] A screen capture showing a successful build using the Gradle script.
+  ![Gradle Screen Capture #2](./images/gradle/Screenshot_2.png)
+
 - [5 pts] A screen capture showing a successful execution of the JAR file created from the Gradle build.
+  ![Gradle Screen Capture #3](./images/gradle/Screenshot_3.png)
+
 - [10 pts] Links to the complete and correct [hello-world/build.gradle](hello-world/build.gradle) file.
